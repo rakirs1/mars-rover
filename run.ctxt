@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=run
+comment0.text=\n\ This\ is\ the\ runner\ of\ the\ rover.\n\n\ @author\ Srikar\ Alaoati\n\ @version\ 9/17/18\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ This\ is\ where\ all\ the\ functions\ for\ the\ rover\ are\ run\ on.\ \n
+numComments=2
